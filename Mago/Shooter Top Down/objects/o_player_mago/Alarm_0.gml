@@ -1,0 +1,1 @@
+canShoot_fire = 1;

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"c_weapon_ice",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"c_weapon_ice",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

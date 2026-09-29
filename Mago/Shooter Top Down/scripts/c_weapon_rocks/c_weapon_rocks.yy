@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"c_weapon_rocks",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"c_weapon_rocks",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
